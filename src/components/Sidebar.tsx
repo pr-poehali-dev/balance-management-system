@@ -4,7 +4,7 @@ const Sidebar = () => {
   return (
     <div className="w-64 bg-white shadow-lg p-6">
       <div className="mb-8">
-        <h1 className="text-2xl font-bold font-sans text-emerald-800">
+        <h1 className="text-2xl font-bold font-inter text-slate-800 tracking-tight">
           bMBank
         </h1>
         <p className="text-sm text-gray-500">Ваш цифровой кошелёк</p>
